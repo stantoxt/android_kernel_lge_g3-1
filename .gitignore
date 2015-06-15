@@ -86,4 +86,7 @@ GTAGS
 
 #.img files, when producing dt.img
 *.img
+
+#.lz4 files 
+*.lz4
 \#*#
